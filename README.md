@@ -15,4 +15,4 @@ To build the code,
 
 Install Apache Maven and run:
 
-    `mvn clean package`
+    mvn clean package
