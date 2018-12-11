@@ -10,3 +10,9 @@ When we apply Newton’s method to complex functions, interesting results appear
 
 Sample Fractal generated using this code:
 ![alt text](https://github.com/shreyas269/Julia-Fractal/blob/master/julia.png)
+
+To build the code,
+
+Install Apache Maven and run:
+
+    `mvn clean package`
